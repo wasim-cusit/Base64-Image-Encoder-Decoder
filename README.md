@@ -17,7 +17,7 @@ A simple and efficient tool for converting images to and from Base64 format. Bas
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it out](https://wasim-cusit.github.io/MR_flashcard/) *(Add your GitHub Pages or deployed link)*
+👉 [Click here to try it out](https://wasim-cusit.github.io/MR_flashcard/)
 
 ---
 
@@ -32,7 +32,6 @@ A simple and efficient tool for converting images to and from Base64 format. Bas
 
 ## 🖼️ Screenshots
 
-*(Optional – insert image here)*  
 ![Screenshot](./screenshot.png)
 
 ---
